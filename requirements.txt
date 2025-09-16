@@ -3,4 +3,3 @@ scipy
 streamlit
 altair
 plotly
-time
